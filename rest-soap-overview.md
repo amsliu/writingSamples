@@ -35,6 +35,7 @@ Here are some common examples to use SOAP APIs:
 3. Using non-HTTP transfer protocols such as SMTP
 
 ## Next steps
+
 To get a comprehensive overview about REST and SOAP web services, you may consult the following sources.
 
 1. [SOAP vs. REST APIs: The Key Differences Explained for Beginners](https://blog.hubspot.com/website/rest-vs-soap)

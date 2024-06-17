@@ -8,7 +8,7 @@ date: 03/21/2024
 
 # How to play tic-tac-toe
 
-Tic-tac-toe is a classic two-player game that can be played using pen and paper. The objective is to win by connecting three "X"s or three "O"s first in a straight or diagonal line. To get started, it is important to define the rules and consider some important steps. 
+Tic-tac-toe is a classic two-player game that can be played using pen and paper. The objective is to win by connecting three "X"s or three "O"s first in a straight or diagonal line. To get started, it is important to define the rules and consider some important steps.
 
 1. Create a three-by-three grid resembling the **#** symbol.
 2. Each player must decide before the start of the game to play with "X" or to play with "O".
@@ -19,7 +19,7 @@ Tic-tac-toe is a classic two-player game that can be played using pen and paper.
 
 ![Stock image of a tic-tac-toe game.](./tic-tac-toe.jpg "A game of tic-tac-toe.")
 
-> [!NOTE] 
+> [!NOTE]
 > There are a couple of common strategies to increase your odds of winning. The player that moves first should try to occupy the center or corners of the grid. The player that moves second should anticipate the next move and block out any squares that would create a fork, a scenario where a player has two ways of winning simutaneously.
 
 ## Next steps
