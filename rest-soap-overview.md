@@ -3,7 +3,7 @@ title: "Overview of when to use REST or SOAP web services"
 description: "Overview documentation that compares REST and SOAP web services"
 author: "Amson Liu"
 doc_type: Overview doc
-date: 03/21/2024
+date: 03/15/2026
 ---
 
 # Overview of when to use REST or SOAP web services
@@ -36,7 +36,7 @@ Here are some common examples to use SOAP APIs:
 
 ## Next steps
 
-To get a comprehensive overview about REST and SOAP web services, you may consult the following sources.
+To get a comprehensive overview about REST and SOAP web services, see the following sources.
 
 1. [SOAP vs. REST APIs: The Key Differences Explained for Beginners](https://blog.hubspot.com/website/rest-vs-soap)
 2. [What is the Difference Between SOAP and REST?](https://aws.amazon.com/compare/the-difference-between-soap-rest/)
