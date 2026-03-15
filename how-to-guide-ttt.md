@@ -1,9 +1,9 @@
 ---
 title: "How to play tic-tac-toe"
-description: "How to guide that explains the rules of tic-tac-toe"
+description: "How-to-guide that explains the rules of tic-tac-toe"
 author: "Amson Liu"
 doc_type: How-to-guide
-date: 03/21/2024
+date: 03/15/2026
 ---
 
 # How to play tic-tac-toe
