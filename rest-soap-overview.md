@@ -3,12 +3,12 @@ title: "Overview of when to use REST or SOAP web services"
 description: "Overview documentation that compares REST and SOAP web services"
 author: "Amson Liu"
 doc_type: Overview doc
-date: 03/15/2026
+date: 03/18/2026
 ---
 
 # Overview of when to use REST or SOAP web services
 
-In this article, you will learn about REST and SOAP web services and consider which scenarios to use which. Both REST and SOAP are popular approaches to the process of implementing APIs, or application programming interfaces.
+In this overview guide, you will learn about REST and SOAP web services and common scenarios to use them. Both REST and SOAP are popular approaches to the process of implementing APIs, or application programming interfaces.
 
 ## What are REST APIs?
 
@@ -20,15 +20,15 @@ SOAP is an acronym for Simple Object Access Protocol. SOAP APIs have the advanta
 
 ## Which one should you use?
 
-In most scenarios, you should use REST APIs when prioritizing flexibility and efficiency. However, it may be appropiate to use SOAP APIs when security and consistency are paramount to the goals of your project.
+In most scenarios, you should use REST APIs when prioritizing flexibility and efficiency. Consider SOAP APIs when you want to prioritize security and consistency.
 
-Here are some common examples to use REST APIs:
+Here are some common scenarios to use REST APIs:
 
 1. Developing public APIs
 2. Situations involving limited bandwidth or server resources
 3. Creating mobile applications
 
-Here are some common examples to use SOAP APIs:
+Here are some common scenarios to use SOAP APIs:
 
 1. Developing private APIs, such as enterprise software
 2. Situations involving stateful operations
@@ -36,7 +36,7 @@ Here are some common examples to use SOAP APIs:
 
 ## Next steps
 
-To get a comprehensive overview about REST and SOAP web services, see the following sources.
+To learn more about REST and SOAP web services, see the following sources.
 
 1. [SOAP vs. REST APIs: The Key Differences Explained for Beginners](https://blog.hubspot.com/website/rest-vs-soap)
 2. [What is the Difference Between SOAP and REST?](https://aws.amazon.com/compare/the-difference-between-soap-rest/)
