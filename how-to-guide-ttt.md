@@ -20,7 +20,7 @@ Tic-tac-toe is a classic two-player game that can be played using pen and paper.
 ![Stock image of a tic-tac-toe game.](./tic-tac-toe.jpg "A game of tic-tac-toe.")
 
 > [!NOTE]
-> There are a couple of common strategies to increase your odds of winning. If you're the player that moves first, you should try to occupy the center or corners of the grid. If you're the player that moves second, you should anticipate the next move and block out any squares that would create a fork. A fork is created when a player has two ways of winning simutaneously.
+> If you're the player that moves first, you should try to occupy the center or corners of the grid. If you're the player that moves second, you should anticipate the next move and block out any squares that would create a fork. A fork is created when a player has two ways of winning simutaneously.
 
 ## Next steps
 
