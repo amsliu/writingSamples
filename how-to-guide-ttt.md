@@ -3,16 +3,16 @@ title: "How to play tic-tac-toe"
 description: "How-to-guide that explains the rules of tic-tac-toe"
 author: "Amson Liu"
 doc_type: How-to-guide
-date: 03/15/2026
+date: 03/18/2026
 ---
 
 # How to play tic-tac-toe
 
-Tic-tac-toe is a classic two-player game that can be played using pen and paper. The objective is to win by connecting three "X"s or three "O"s first in a straight or diagonal line. To get started, you should learn the following rules and steps.
+Tic-tac-toe is a classic two-player game that can be played using pen and paper. The objective is to win by connecting three "X"s or three "O"s first in a straight or diagonal line. To get started, review the following rules and steps.
 
-1. Create a three-by-three grid resembling the **#** symbol.
+1. Create a three-by-three grid resembling the "#" symbol.
 2. Each player must decide before the start of the game to play with "X" or to play with "O".
-3. It is standard for the player with "X" to go first. The first move may be made on any square in the three-by-three **#** grid.
+3. It is standard for the player with "X" to go first. The first move may be made on any square in the three-by-three "#" grid.
 4. Each player take turns placing their symbol ("X" or "O") on an empty square.
 5. The first player to connect three "X"s or three "O"s in a straight or diagonal line wins.
 6. If not, the game ends in a draw and the players may choose to play a new round.
@@ -20,7 +20,7 @@ Tic-tac-toe is a classic two-player game that can be played using pen and paper.
 ![Stock image of a tic-tac-toe game.](./tic-tac-toe.jpg "A game of tic-tac-toe.")
 
 > [!NOTE]
-> There are a couple of common strategies to increase your odds of winning. The player that moves first should try to occupy the center or corners of the grid. The player that moves second should anticipate the next move and block out any squares that would create a fork, a scenario where a player has two ways of winning simutaneously.
+> There are a couple of common strategies to increase your odds of winning. If you're the player that moves first, you should try to occupy the center or corners of the grid. If you're the player that moves second, you should anticipate the next move and block out any squares that would create a fork. A fork is created when a player has two ways of winning simutaneously.
 
 ## Next steps
 
@@ -28,4 +28,3 @@ To learn more about the rules and strategies for tic-tac-toe, see the following 
 
 1. [How to Play Tic Tac Toe](https://www.wikihow.com/Play-Tic-Tac-Toe)
 2. [How to Win at Tic Tac Toe](https://www.wikihow.com/Win-at-Tic-Tac-Toe)
-
