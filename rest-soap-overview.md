@@ -20,7 +20,7 @@ SOAP is an acronym for Simple Object Access Protocol. SOAP APIs have the advanta
 
 ## Which one should you use?
 
-In most scenarios, you should use REST APIs when prioritizing flexibility and efficiency. Consider SOAP APIs when you want to prioritize security and consistency.
+In most scenarios, choose REST APIs for flexibility and efficiency. Consider SOAP APIs only when you want to prioritize security and consistency.
 
 Here are some common scenarios to use REST APIs:
 
