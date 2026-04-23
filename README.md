@@ -1,6 +1,6 @@
 # Amson's Technical Writing Samples
 
-In this repository, you'll find two technical writing exercises I've completed in my own time. They're written in the second person, and complete with metadata and references. The next section of this README paraphrases (with confidential details removed) an actual documentation framework that I've authored for Bloomberg's Physical Assets and Geo Data team. I've also included a PowerPoint I made about documentation best practices in the AI era.
+In this repository, you'll find two technical writing exercises I've completed in my own time. They're written in the second person, and complete with YAML frontmatter metadata and references. The next section of this README paraphrases (with confidential details removed) an actual documentation framework that I've authored for Bloomberg's Physical Assets and Geo Data team. I've also included a PowerPoint I made about documentation best practices in the AI era.
 
 ## Technical Writing Exercises
 
