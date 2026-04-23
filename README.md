@@ -1,6 +1,6 @@
 # Amson's Technical Writing Samples
 
-In this repository, you'll find two technical writing exercises I've completed in my own time. They're written in the second person, and complete with metadata and references. The next section of this README paraphrases (with confidential details removed) an actual documentation framework that I've authored for Bloomberg's Physical Assets and Geo Data team. 
+In this repository, you'll find two technical writing exercises I've completed in my own time. They're written in the second person, and complete with metadata and references. The next section of this README paraphrases (with confidential details removed) an actual documentation framework that I've authored for Bloomberg's Physical Assets and Geo Data team. I've also included a PowerPoint I made about documentation best practices in the AI era.
 
 ## Technical Writing Exercises
 
@@ -20,7 +20,7 @@ Write a short document that describes how to play tic-tac-toe.
 ## Documentation Framework Sample
 
 ```markdown
-# PAGEO Documentation Framework and Best Practices
+# Documentation Framework and Best Practices
 
 ## Overview
 
@@ -108,9 +108,9 @@ Clear heading hierarchy supports readability, long-term maintainability, and dis
 
 Individual documentation pages should have a clearly identified owner responsible for keeping content accurate and up to date.
 
-In addition, PAGEO has a dedicated documentation owner. If you have questions about structure, standards, or how to apply this framework, you may reach out to the PAGEO documentation owner, {FON Amson Liu}, for guidance.
+In addition, PAGEO has a dedicated documentation owner. If you have questions about structure, standards, or how to apply this framework, you may reach out to the documentation owner, Amson Liu, for guidance.
 
-For documentation feedback, corrections, or suggestions, the recommended method of engagement is to open a BBGitHub issue. This ensures feedback is visible, trackable, and properly routed.
+For documentation feedback, corrections, or suggestions, the recommended method of engagement is to open a GitHub issue. This ensures feedback is visible, trackable, and properly routed.
 ```
 
 
