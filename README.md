@@ -38,8 +38,7 @@ This guide does **not** prescribe detailed rules for every document. Instead, it
 This framework applies to anyone creating or maintaining PAGEO documentation, including but not limited to:
 
 - PAGEO FTEs
-- BNEF analysts contributing documentation
-- Geo/Maps partners
+- Data analysts contributing documentation
 - Vendor-facing documentation owners
 
 This guidance is intentionally lightweight so it can be applied incrementally as documentation evolves.
